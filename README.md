@@ -1,3 +1,4 @@
+![alt text](http://lozanotek.com/images/logo.gif "Created by Lozanotek, Inc.") 
 # Developing on the Microsoft Platform
 Slides and content for the _Developing on the Microsoft Platform_ presentation.
 
